@@ -1,6 +1,5 @@
 package chap_07;
 
-import chap_04._06_While;
 
 // 클래스 구성요소 : 필드, 생성자, 메소드
 public class BlackBox {
@@ -72,7 +71,7 @@ public class BlackBox {
 	
 	static void callServiceCenter() {
 		System.out.println("서비스 센터(1588-0000)으로 연결합니다.");
-		canQutoReport = false;
+	
 	}
 	
 	
